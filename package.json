@@ -1,0 +1,23 @@
+{
+  "name": "betterbit-frame-pkg",
+  "version": "2.0.0",
+  "description": "A powerful and customizable package for creating interactive frames using BetterBit.",
+  "main": "main.js",
+  "scripts": {
+    "preinstall": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "web3"
+  ],
+  "author": "",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/syt4sh1/betterbit-frame-pkg.git"
+  },
+  "bugs": {
+    "url": "https://github.com/syt4sh1/betterbit-frame-pkg/issues"
+  },
+  "homepage": "https://github.com/syt4sh1/betterbit-frame-pkg#readme"
+}
